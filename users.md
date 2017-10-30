@@ -10,6 +10,12 @@
   GitHub: [Andre Peregrina](https://github.com/andreperegrina)  
   Facebook:
 
+  Name:V Nohitha Reddy
+  Place:Telengana,India
+  Bio:Intreasted in reading story books,solving puzzles.
+  GitHub:[nohitha](https://github.com/nohitha)
+  Facebook:
+
 - Name:  Arpit Batra  
   Place: Dehradun, India  
   Bio: I am an aspiring android developer.  
